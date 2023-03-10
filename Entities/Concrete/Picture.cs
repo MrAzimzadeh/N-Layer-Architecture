@@ -1,0 +1,16 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Core.Entities;
+
+
+namespace Entities.Concrete
+{
+    public class Picture : IEntity
+    {
+        public int Id { get; set; }
+        public string PhotoUrl { get; set; }
+
+    }
+}
