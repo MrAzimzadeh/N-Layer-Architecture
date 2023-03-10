@@ -14,7 +14,7 @@ namespace DataAcces.Concrete.SQLServer
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=AZIMZADA;Database=RLDB;Trusted_Connection=true;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true");
+            optionsBuilder.UseSqlServer("Server=AZIMZADA;Database=ECommerceArchitectureDb;Trusted_Connection=true;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true");
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<CategorySub> CategorySubs { get; set; }
