@@ -4,6 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Core.Entities;
+using Core.Entities.Concrete;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
@@ -12,7 +13,7 @@ namespace Core.DataAcces.EntityFramework
 {
     public class EFRepositoryBase<TEntity, TContext> : IRepositoryBase<TEntity>
     where TEntity : class, IEntity
-    where TContext : IdentityDbContext, new()
+    where TContext : IdentityDbContext<User>, new()
     {
         public void Add(TEntity entity)
         {
@@ -43,7 +44,7 @@ namespace Core.DataAcces.EntityFramework
             using var _context = new TContext();
             return filter == null ? _context.Set<TEntity>().ToList() 
             : _context.Set<TEntity>().Where(filter).ToList();
-            
+
         }
 
         public void Update(TEntity entity)

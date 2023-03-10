@@ -1,0 +1,15 @@
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\DataAcces.deps.json
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\DataAcces.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\DataAcces.pdb
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\Core.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\Core.pdb
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.csproj.CopyComplete
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\refint\DataAcces.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.pdb
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\ref\DataAcces.dll
