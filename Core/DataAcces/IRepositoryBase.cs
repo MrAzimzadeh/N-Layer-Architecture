@@ -1,18 +1,15 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Threading.Tasks;
 using Core.Entities;
+using System.Linq.Expressions;
 
 namespace Core.DataAcces
 {
-    /*
-        ! Biz burada deyirik ki Sene Tentity tipinden yeni istenilen bir class gelecek ancaq sen onalara bax ki onlar IEntiy classindan inherit alir bu sertleri odeyen bize classlar lazimdi 
-    */
+
     public interface IRepositoryBase<TEntity>
     where TEntity : class, IEntity
     {
+        /*
+        ! Biz burada deyirik ki Sene Tentity tipinden yeni istenilen bir class gelecek ancaq sen onalara bax ki onlar IEntiy classindan inherit alir bu sertleri odeyen bize classlar lazimdi 
+    */
         void Add(TEntity entity);
         void Update(TEntity entity);
         void Delete(TEntity entity);
