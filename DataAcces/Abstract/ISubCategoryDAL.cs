@@ -7,7 +7,7 @@ using Entities.Concrete;
 
 namespace DataAcces.Abstract
 {
-    public interface ICategorySub : IRepositoryBase<CategorySub>
+    public interface ISubCategoryDAL : IRepositoryBase<SubCategory>
     {
         
     }
