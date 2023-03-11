@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/pSMrFbs+05h2wcWrpnEVA4dmNgna/dWKNdo2xSX4L6MCDwo+VjBtz63BmSnjjhBHSi3GjV1acuUdOT91A2qw==",
+  "dgSpecHash": "zeLIfbJWrC7Ve3njs2zYGcKPBwbo+aOu+eQRQUaMevjoHXxPDCJPJr3LxSxLDDyKXvA3mixigXfeN+BjjikkDQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mehem\\OneDrive\\Desktop\\ComparAcademy\\NewGroup\\ASP.NET\\Architecture\\ECommerceArch\\DataAcces\\DataAcces.csproj",
+  "projectFilePath": "C:\\Users\\mehem\\OneDrive\\Desktop\\ComparAcademy\\NewGroup\\ASP.NET\\Architecture\\ECommerceArch\\DataAcces\\DataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehem\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mehem\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

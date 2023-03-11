@@ -13,3 +13,7 @@ C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECom
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\refint\DataAcces.dll
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.pdb
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\ref\DataAcces.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\DataAcces.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\Entities.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\bin\Debug\net7.0\Entities.pdb
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\DataAcces\obj\Debug\net7.0\DataAcces.genruntimeconfig.cache
