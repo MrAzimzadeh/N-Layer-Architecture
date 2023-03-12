@@ -8,11 +8,11 @@ using Entities.Concrete;
 
 namespace Business.Concrete
 {
-    public class CategotyManager : ICategoryServices
+    public class CategoryManager : ICategoryServices
     {
         private readonly ICategoryDAL _categoryDAL;
 
-        public CategotyManager(ICategoryDAL categoryDAL)
+        public CategoryManager(ICategoryDAL categoryDAL)
         {
             _categoryDAL = categoryDAL;
         }

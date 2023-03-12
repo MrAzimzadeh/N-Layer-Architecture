@@ -1,3 +1,6 @@
+using Business.Abstract;
+using Business.Concrete;
+using DataAcces.Abstract;
 using DataAcces.Concrete.SQLServer;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +11,13 @@ builder.Services.AddControllersWithViews();
 // Todo ============================== Sql Connection ============================================================
 
 builder.Services.AddScoped<AppDbContext>(); // ! 
+/*
+    !InvalidOperationException: Unable to resolve service for type 'Business.Abstract.ICategoryServices' while attempting to activate 'WebUI.Areas.Admin.Controllers.CategoryController'.
+    * bu errorun sebebi elaqe olmamasidi onu bu yolla hell edirik
+*/
 
+builder.Services.AddScoped<ICategoryServices, CategoryManager>();
+builder.Services.AddScoped<ICategoryDAL , CategoryDAL>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,7 +40,7 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
         name: "areas",
-        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+        pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
     );
 });
 

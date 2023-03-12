@@ -286,3 +286,5 @@ C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECom
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\WebUI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\WebUI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\WebUI\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\WebUI\bin\Debug\net7.0\Business.dll
+C:\Users\mehem\OneDrive\Desktop\ComparAcademy\NewGroup\ASP.NET\Architecture\ECommerceArch\WebUI\bin\Debug\net7.0\Business.pdb
